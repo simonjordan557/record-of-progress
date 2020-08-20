@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\HelloName\HelloName\bin\Debug\HelloName.exe.config
+L:\Documents\Repos\Visual Studio 2015\HelloName\HelloName\bin\Debug\HelloName.exe
+L:\Documents\Repos\Visual Studio 2015\HelloName\HelloName\bin\Debug\HelloName.pdb
+L:\Documents\Repos\Visual Studio 2015\HelloName\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\HelloName\HelloName\obj\Debug\HelloName.exe
+L:\Documents\Repos\Visual Studio 2015\HelloName\HelloName\obj\Debug\HelloName.pdb
