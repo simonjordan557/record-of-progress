@@ -6,6 +6,8 @@ This is my first Git repository, as I learn how to use GitHub.
 
 As I progress through my self-taught coding journey, I'll post my progress here.
 
+Check the Dev_Diary.txt file for details of my progress.
+
 I intend to use this as:
 
 - A motivational diary tool to inspire me to write new code every day.
