@@ -1,0 +1,8 @@
+DIARY OF PROGRESS IN SELF-TAUGHT CODING.
+
+20 / 8 / 2020
+
+- Set up Git account.
+- Followed GitHub inbuilt tutorial to learn about commits, pull requests, merges, licences and READMEs.
+- Set up 'Hello World' respository with README.MD, this Dev Diary, and uploaded a simple 'Hello <NAME>' C# console application.
+
