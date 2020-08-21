@@ -15,6 +15,9 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 - Created a repository from Windows CLI using 'Git clone'. ('hello-world-cli').
 - Created a repository from Linux bash using 'Git init'. ('created-from-bash').
 - Created 'Useful Notes - Git' Cheat Sheet.
+- Created 'Useful Notes - Markdown' Cheat Sheet.
+
+
 
 
 
