@@ -13,6 +13,7 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 - E-LEARNING: UDEMY: 'GIT & GITHUB CRASH COURSE: CREATE A REPOSITORY FROM SCRATCH!' - Completed.
 - Installed 'Sublime Text 3'.
 - Created a repository from CLI. ('hello-world-cli').
+- Created 'Useful Notes - Git' Cheat Sheet.
 
 
 
