@@ -12,9 +12,15 @@ Git Log				-	View previous commits
 
 Git diff <FILENAME> 		-	Shows changes made to the file.
 
+Git restore --cached <FILENAME>	-	Remove file from staging
+
 Git checkout <COMMIT HASH>	-	Take project back to state at that Commit's hash.
 
-Git checkout (FILENAME>		-	Remove uncommitted changes to the file.
+Git checkout <FILENAME>		-	Remove uncommitted changes to the file.
+
+Git fetch			-	Check if local repo is behind or ahead of remote repo.
+
+Git pull			-	Update local repo to latest remote repo.
 
 CTRL+L				-	Clear the console.
 
