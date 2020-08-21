@@ -4,11 +4,17 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
 - Set up GitHub account.
 - Followed GitHub inbuilt tutorial to learn about commits, pull requests, merges, licences and READMEs.
-- Set up 'Hello World' respository with README.MD, this Dev Diary, and uploaded a simple 'Hello <NAME>' C# console application.
+- Set up 'Hello World' repository with README.MD, this Dev Diary, and uploaded a simple 'Hello <NAME>' C# console application.
 - Installed Git on Windows 10.
 
 21 / 8 / 2020
 
 - Uploaded 'ConcatTextFiles' program in new repository.
+- E-LEARNING: UDEMY: 'GIT & GITHUB CRASH COURSE: CREATE A REPOSITORY FROM SCRATCH!' - Completed.
+- Installed 'Sublime Text 3'.
+- Created a repository from CLI. ('hello-world-cli').
+
+
+
 
 

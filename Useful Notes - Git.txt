@@ -1,0 +1,23 @@
+Git Status 			-	Current status
+
+Git clone <REPOSITORY PATH> 	- 	Clone the repository in the local directory
+
+Git Add <FILENAME>		-	Add file to be committed		(Select products to post)		STAGING
+
+Git Commit -m "MESSAGE"		-	Commit all files to be added		(Put products in box and tape it up)	COMMITTING
+
+Git Push Origin Master		- 	Confirm the changes			(Post the box)				PUSHING
+
+Git Log				-	View previous commits
+
+Git diff <FILENAME> 		-	Shows changes made to the file.
+
+Git checkout <COMMIT HASH>	-	Take project back to state at that Commit's hash.
+
+Git checkout (FILENAME>		-	Remove uncommitted changes to the file.
+
+CTRL+L				-	Clear the console.
+
+
+
+
