@@ -10,7 +10,7 @@ Git push prigin master		- 	Confirm the changes			(Post the box)				PUSHING
 
 Git log				-	View previous commits
 
-Git init      - Initialise local repository
+Git init            - Initialise local repository
 
 Git remote add origin <URL> - Connect local repository to a repository named origin at <URL>
 
