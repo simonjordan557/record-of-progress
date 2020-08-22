@@ -17,7 +17,12 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 - Created 'Useful Notes - Git' Cheat Sheet.
 - Created 'Useful Notes - Markdown' Cheat Sheet.
 
+22 / 8 / 2020
 
+- Installed Git LFS and updated 'Useful Notes - Git' Cheat Sheet.
+- Uploaded all remaining projects to GitHub.
+- Created issues for next steps.
+- Bookmarked useful learning resources.
 
 
 
