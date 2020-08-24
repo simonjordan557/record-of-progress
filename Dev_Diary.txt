@@ -23,6 +23,15 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 - Uploaded all remaining projects to GitHub.
 - Created issues for next steps.
 - Bookmarked useful learning resources.
+- Uploaded design document to Unity CWC20 personal project.
+
+23 / 8 / 2020
+
+- Worked on Edabit problems. 100XP.
+
+24 / 8 / 2020
+
+- Worked on Edabit problems. 200XP.
 
 
 

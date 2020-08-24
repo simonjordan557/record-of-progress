@@ -1,38 +1,38 @@
-Git status 			-	Current status
+Git status 				-	Current status
+	
+Git clone <REPOSITORY PATH> 		- 	Clone the repository in the local directory
 
-Git clone <REPOSITORY PATH> 	- 	Clone the repository in the local directory
+Git add <FILENAME>			-	Add file to be committed		(Select products to post)		STAGING
 
-Git add <FILENAME>		-	Add file to be committed		(Select products to post)		STAGING
+Git commit -m "MESSAGE"			-	Commit all files to be added		(Put products in box and tape it up)	COMMITTING
 
-Git commit -m "MESSAGE"		-	Commit all files to be added		(Put products in box and tape it up)	COMMITTING
+Git push prigin master			- 	Confirm the changes			(Post the box)				PUSHING
 
-Git push prigin master		- 	Confirm the changes			(Post the box)				PUSHING
+Git log					-	View previous commits
 
-Git log				-	View previous commits
+Git init            			- Initialise local repository
 
-Git init            - Initialise local repository
+Git remote add origin <URL> 		- Connect local repository to a repository named origin at <URL>
 
-Git remote add origin <URL> - Connect local repository to a repository named origin at <URL>
+Git diff <FILENAME> 			-	Shows changes made to the file.
 
-Git diff <FILENAME> 		-	Shows changes made to the file.
+Git restore --cached <FILENAME>		-	Remove file from staging
 
-Git restore --cached <FILENAME>	-	Remove file from staging
+Git checkout <COMMIT HASH>		-	Take project back to state at that Commit's hash.
 
-Git checkout <COMMIT HASH>	-	Take project back to state at that Commit's hash.
+Git checkout <FILENAME>			-	Remove uncommitted changes to the file.
 
-Git checkout <FILENAME>		-	Remove uncommitted changes to the file.
+Git fetch				-	Check if local repo is behind or ahead of remote repo.
 
-Git fetch			-	Check if local repo is behind or ahead of remote repo.
+Git pull				-	Update local repo to latest remote repo.
 
-Git pull			-	Update local repo to latest remote repo.
+Git lfs track "*.bc"  			- Track files of type .bc into Large File Storage
 
-Git lfs track "*.bc"  - Track files of type .bc into Large File Storage
-
-Git lfs migrate info  - Show file types in repo taking up large amounts of space
+Git lfs migrate info  			- Show file types in repo taking up large amounts of space
 
 Git lfs migrate import --include="*.bc" - Convert all files of type .bc into LFS system
 
-CTRL+L				-	Clear the console.
+CTRL+L					-	Clear the console.
 
 
 
