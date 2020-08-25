@@ -10,14 +10,20 @@ Check the Dev_Diary.txt file for details of my progress.
 
 I intend to use this as:
 
-- A motivational diary tool to inspire me to write new code every day.
-- A safebox for my work.
-- A record of my improvement.
-- A resource for revision.
-- A showcase for my (eventual) achievements.
-- A store of useful code snippets.
+* A motivational diary tool to inspire me to write new code every day.
+* A safebox for my work.
+* A record of my improvement.
+* A resource for revision.
+* A showcase for my (eventual) achievements.
+* A store of useful code snippets.
 
 I can be reached on simonjordan557@aol.com.
+
+### Links:
+
+[My Edabit progress](https://edabit.com/user/7DFnXQokWymRQqP9t)
+
+
 
 
 
