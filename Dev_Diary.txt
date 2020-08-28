@@ -1,11 +1,33 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
-20 / 8 / 2020
+28 / 8 / 2020
 
-- Set up GitHub account.
-- Followed GitHub inbuilt tutorial to learn about commits, pull requests, merges, licences and READMEs.
-- Set up 'record-of-progress' repository with README.MD, this Dev Diary, and uploaded a simple 'Hello <NAME>' C# console application.
-- Installed Git on Windows 10.
+- Completed Unity CWC20 Prototype 5.
+- Completed Unity CWC20 Challenge 5.
+- Completed Unity CWC20 Unit 6.
+
+25 / 8 / 2020
+
+- Worked on Edabit problems. 300XP.
+- Completed Unity CWC20 Challenge 4.
+- Added Udemy certificate for "Programming For Complete Beginners in C#".
+
+24 / 8 / 2020
+
+- Worked on Edabit problems. 200XP.
+- Completed Unity CWC20 Prototype 4.
+
+23 / 8 / 2020
+
+- Worked on Edabit problems. 100XP.
+
+22 / 8 / 2020
+
+- Installed Git LFS and updated 'Useful Notes - Git' Cheat Sheet.
+- Uploaded all remaining projects to GitHub.
+- Created issues for next steps.
+- Bookmarked useful learning resources.
+- Uploaded design document to Unity CWC20 personal project.
 
 21 / 8 / 2020
 
@@ -17,27 +39,17 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 - Created 'Useful Notes - Git' Cheat Sheet.
 - Created 'Useful Notes - Markdown' Cheat Sheet.
 
-22 / 8 / 2020
+20 / 8 / 2020
 
-- Installed Git LFS and updated 'Useful Notes - Git' Cheat Sheet.
-- Uploaded all remaining projects to GitHub.
-- Created issues for next steps.
-- Bookmarked useful learning resources.
-- Uploaded design document to Unity CWC20 personal project.
+- Set up GitHub account.
+- Followed GitHub inbuilt tutorial to learn about commits, pull requests, merges, licences and READMEs.
+- Set up 'record-of-progress' repository with README.MD, this Dev Diary, and uploaded a simple 'Hello <NAME>' C# console application.
+- Installed Git on Windows 10.
 
-23 / 8 / 2020
 
-- Worked on Edabit problems. 100XP.
 
-24 / 8 / 2020
 
-- Worked on Edabit problems. 200XP.
-- Completed Unity CWC20 Prototype 4.
 
-25 / 8 / 2020
-
-- Worked on Edabit problems. 300XP.
-- Completed Unity CWC20 Challenge 4.
 
 
 
