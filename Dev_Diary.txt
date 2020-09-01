@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+1 / 9 / 2020
+
+- Unity CWC20 Personal Project. Completed arena, twin-stick move and fire, bullet and camera behaviour.
+
 31 / 8 / 2020
 
 - E-LEARNING: UDEMY: 'COMPLETE BLENDER CREATOR: LEARN 3D MODELLING FOR BEGINNERS' - Completed Sections 1 and 2.
