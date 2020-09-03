@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+3 / 9 / 2020
+
+- Unity CWC20 Personal Project. Completed second enemy, added remaining enemy meshes, implemented particles, improved Rigidbody physics.
+
 2 / 9 / 2020
 
 - Unity Certified Programmer Mock Test 1: 800 / 1000
