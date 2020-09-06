@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+4 - 5 / 9 / 2020
+
+- Unity CWC20 Personal Project. Completed all enemies, graphics, gameplay, powerups, UI, game controller.
+
 3 / 9 / 2020
 
 - Unity CWC20 Personal Project. Completed second enemy, added remaining enemy meshes, implemented particles, improved Rigidbody physics.
