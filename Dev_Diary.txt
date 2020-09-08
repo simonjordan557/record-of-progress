@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+7 / 9 / 2020
+
+- Added music. MVP achieved!
+
 6 / 9 / 2020
 
 - Unity CWC20 Personal Project. Completed all sound / voice FX. more Debugging and balancing.
