@@ -1,8 +1,14 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+8 / 9 / 2020
+
+- 'Zzap!' Build 0.1 uploaded to Github and Unity Connect:
+
+	www.github.com/simonjordan557/pnity-CWC20-personalproject
+
 7 / 9 / 2020
 
-- Added music. MVP achieved!
+- Unity CWC20 Personal Project. Added music. 'Zzap!' MVP achieved!
 
 6 / 9 / 2020
 
