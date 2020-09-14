@@ -1,5 +1,10 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+14 / 9 / 2020
+
+- Set up itch.io publisher account.
+- Rewrote 'WordGameCheater' to use a recursive function. It is no longer hardcoded up to a limit of 8-letter strings, it can dynamically adjust to any length. Still needs optimisation. 
+
 8 / 9 / 2020
 
 - 'Zzap!' Build 0.1 uploaded to Github and Unity Connect:
