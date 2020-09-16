@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+16 / 9 / 2020
+
+- Added a basic pause screen to Zzap.
+
 14 / 9 / 2020
 
 - Set up itch.io publisher account.
