@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+17 / 9 / 2020
+
+- Zzap: Completed pause screen, all UI buttons, added keyboard & mouse controls, quit to desktop.
+
 16 / 9 / 2020
 
 - Added a basic pause screen to Zzap.
