@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+21 / 9 / 2020
+
+- Zzap store page created and released on itch.io, launch trailer created and released on YouTube. promotion on Facebook and Reddit.
+
 17 / 9 / 2020
 
 - Zzap: Completed pause screen, all UI buttons, added keyboard & mouse controls, quit to desktop.
