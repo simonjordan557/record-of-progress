@@ -1,5 +1,11 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+24 / 09 / 2020
+
+- Unity: Learned about PlayerPrefs, save / load using files (filestream, binary formatter, [Serializable] static or singleton data container class).
+- Zzap! Updated to 1.0.3: added persistent offline highscore record.
+- Downloaded, learned and used Butler for itch.io to upload new build of Zzap!
+
 22 / 9 / 2020
 
 - Optimised 'WordGameCheater' by using a recursive binary search when comparing possible anagrams against legitimate words, instead of cycling through the dictionary start to finish.
