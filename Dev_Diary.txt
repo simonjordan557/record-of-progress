@@ -1,6 +1,10 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
-24 / 09 / 2020
+25 / 9 / 2020
+
+- Wrote 3 new programs: AlphabetLetterToDigit, AlphabetDigitToLetter, and SubstringOfCountry. (All tools for solving puzzles / word games).
+
+24 / 9 / 2020
 
 - Unity: Learned about PlayerPrefs, save / load using files (filestream, binary formatter, [Serializable] static or singleton data container class).
 - Zzap! Updated to 1.0.3: added persistent offline highscore record.
