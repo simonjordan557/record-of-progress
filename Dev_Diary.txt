@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+28 / 9 / 2020
+
+- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 1- 38 completed.
+
 25 / 9 / 2020
 
 - Wrote 3 new programs: AlphabetLetterToDigit, AlphabetDigitToLetter, and SubstringOfCountry. (All tools for solving puzzles / word games).
