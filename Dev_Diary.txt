@@ -1,5 +1,10 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+
+30 / 9 / 2020
+
+- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 71 - 91 completed.
+
 29 / 9 / 2020
 
 - Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 39 - 70 completed.
