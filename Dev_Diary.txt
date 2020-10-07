@@ -1,5 +1,10 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+7 / 10 / 2020
+
+- Created 'Useful Notes - C# LINQ' Cheat Sheet.
+- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 144 - 155 completed.
+
 6 / 10 / 2020
 
 - Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 125 - 143 completed.
