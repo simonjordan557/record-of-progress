@@ -31,7 +31,7 @@
 
 
 #### * **ELEMENTAT()**
-Returns the value at a given index. `int[] numbers = {1, 2, 3}; int result = numbers.ElementAt(1);` would return `2`.
+*Returns the value at a given index. `int[] numbers = {1, 2, 3}; int result = numbers.ElementAt(1);` would return `2`.*
 
 #### * **FIRST()**
 *Returns the first element.*

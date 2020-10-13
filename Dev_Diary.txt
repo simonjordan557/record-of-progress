@@ -3,6 +3,9 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 13 / 10 / 2020
 
 - Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 174 - 180 completed.
+- J.A. Cannon: Linux For Beginners completed.
+- Created 'Useful Notes - Bash' Cheat Sheet.
+- Reformatted 'Useful Notes - C# LINQ' Cheat Sheet.
 
 12 / 10 / 2020
 
