@@ -1,5 +1,13 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+15 / 10 / 2020
+
+- Worked on Edabit problems. 450XP.
+
+14 / 10 / 2020
+
+- J.A. Cannon: Command Line Kung-Fu completed.
+
 13 / 10 / 2020
 
 - Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 174 - 180 completed.
