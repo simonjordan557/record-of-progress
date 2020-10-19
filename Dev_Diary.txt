@@ -1,5 +1,17 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+19 / 10 / 2020
+
+- Channel9.MSDN.com: C# Fundamentals For Absolute Beginners: Completed.
+- Channel9.MSDN.com: On.Net: C# Language Highlights: Completed.
+- Channel9.MSDN.com: Intro To Visual Studio: Completed.
+- YouTube: Scott Hanselman: .NET Core Explained
+- Worked on Edabit problems. 550XP.
+
+16 / 10 / 2020
+
+- Channel9.MSDN.com: C# Fundamentals For Absolute Beginners
+
 15 / 10 / 2020
 
 - Worked on Edabit problems. 450XP.
