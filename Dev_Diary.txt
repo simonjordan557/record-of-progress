@@ -1,5 +1,13 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+21 / 10 / 2020
+
+- Completed initial coding of 'Cyphered' and uploaded to Github. Started debugging.
+
+20 / 10 / 2020
+
+- Started new project 'Cyphered'. Completed whiteboarding, started coding. 
+
 19 / 10 / 2020
 
 - Channel9.MSDN.com: C# Fundamentals For Absolute Beginners: Completed.
