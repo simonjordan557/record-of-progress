@@ -9,9 +9,14 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 - Downloaded 'dotnet try'.
 - Channel9.MSDN.com: C# Advanced: Lesson 1 Completed.
 
+25 / 10 / 2020
+
+- Worked on Edabit problems. 910XP.
+- Project Odin: Enrolled, created forum and Discord accounts.
+
 24 / 10 / 2020
 
-- Removed catastrophic bugs from 'Cyphered' and uploaded version 0.2 to GitHub.
+- Removed catastrophic bugs from 'Cyphered' and uploaded version 0.2 to Github.
 - Worked on Edabit problems. 700XP.
 
 21 / 10 / 2020
