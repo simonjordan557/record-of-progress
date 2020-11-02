@@ -1,7 +1,17 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+2 / 11 / 2020
+
+- 'Zzap': Linux and Mac versions built and uploaded to itch.io.
+- 'Cyphered': Added binary formatting to encrypted key, uploaded version 1.0 to GitHub.
+- Channel9.MSDN.com: .NET Core 101: Completed.
+- Channel9.MSDN.com: Desktop And .NET Core 101: Completed.
+- Downloaded 'dotnet try'.
+- Channel9.MSDN.com: C# Advanced: Lesson 1 Completed.
+
 24 / 10 / 2020
 
+- Removed catastrophic bugs from 'Cyphered' and uploaded version 0.2 to GitHub.
 - Worked on Edabit problems. 700XP.
 
 21 / 10 / 2020
@@ -17,7 +27,7 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 - Channel9.MSDN.com: C# Fundamentals For Absolute Beginners: Completed.
 - Channel9.MSDN.com: On.Net: C# Language Highlights: Completed.
 - Channel9.MSDN.com: Intro To Visual Studio: Completed.
-- YouTube: Scott Hanselman: .NET Core Explained
+- YouTube: Scott Hanselman: .NET Core Explained.
 - Worked on Edabit problems. 550XP.
 
 16 / 10 / 2020
