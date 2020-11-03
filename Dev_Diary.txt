@@ -1,13 +1,17 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+3 / 11 / 2020
+
+- Udemy: Worked on Eric Wise C# exercises. First implementation of class library and Xunit Tests.
+
 2 / 11 / 2020
 
 - 'Zzap': Linux and Mac versions built and uploaded to itch.io.
 - 'Cyphered': Added binary formatting to encrypted key, uploaded version 1.0 to GitHub.
-- Channel9.MSDN.com: .NET Core 101: Completed.
-- Channel9.MSDN.com: Desktop And .NET Core 101: Completed.
+- E-LEARNING: CHANNEL9.MSDN: '.NET Core 101' - Completed.
+- E-LEARNING: CHANNEL9.MSDN: 'Desktop And .NET Core 101' - Completed.
 - Downloaded 'dotnet try'.
-- Channel9.MSDN.com: C# Advanced: Lesson 1 Completed.
+- E-LEARNING: CHANNEL9.MSDN: 'C# Advanced' - Lesson 1 Completed.
 
 25 / 10 / 2020
 
@@ -29,15 +33,15 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
 19 / 10 / 2020
 
-- Channel9.MSDN.com: C# Fundamentals For Absolute Beginners: Completed.
-- Channel9.MSDN.com: On.Net: C# Language Highlights: Completed.
-- Channel9.MSDN.com: Intro To Visual Studio: Completed.
-- YouTube: Scott Hanselman: .NET Core Explained.
+- E-LEARNING: CHANNEL9.MSDN: 'C# Fundamentals For Absolute Beginners' - Completed.
+- E-LEARNING: CHANNEL9.MSDN: 'On.Net: C# Language Highlights' - Completed.
+- E-LEARNING: CHANNEL9.MSDN: 'Intro To Visual Studio' - Completed.
+- E-LEARNING: YOUTUBE: Scott Hanselman - '.NET Core Explained'.
 - Worked on Edabit problems. 550XP.
 
 16 / 10 / 2020
 
-- Channel9.MSDN.com: C# Fundamentals For Absolute Beginners
+- E-LEARNING: CHANNEL9.MSDN: 'C# Fundamentals For Absolute Beginners' - Started.
 
 15 / 10 / 2020
 
@@ -45,35 +49,35 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
 14 / 10 / 2020
 
-- J.A. Cannon: Command Line Kung-Fu completed.
+- J.A. Cannon: 'Command Line Kung-Fu' completed.
 
 13 / 10 / 2020
 
-- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 174 - 180 completed.
-- J.A. Cannon: Linux For Beginners completed.
+- Paul Richards: 'C# Programming In Byte-Sized Lessons'. Lessons 174 - 180 completed.
+- J.A. Cannon: 'Linux For Beginners' completed.
 - Created 'Useful Notes - Bash' Cheat Sheet.
 - Reformatted 'Useful Notes - C# LINQ' Cheat Sheet.
 
 12 / 10 / 2020
 
-- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 156 - 173 completed.
+- Paul Richards: 'C# Programming In Byte-Sized Lessons'. Lessons 156 - 173 completed.
 
 7 / 10 / 2020
 
 - Created 'Useful Notes - C# LINQ' Cheat Sheet.
-- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 144 - 155 completed.
+- Paul Richards: 'C# Programming In Byte-Sized Lessons'. Lessons 144 - 155 completed.
 
 6 / 10 / 2020
 
-- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 125 - 143 completed.
+- Paul Richards: 'C# Programming In Byte-Sized Lessons'. Lessons 125 - 143 completed.
 
 5 / 10 / 2020
 
-- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 112 - 124 completed.
+- Paul Richards: 'C# Programming In Byte-Sized Lessons'. Lessons 112 - 124 completed.
 
 2 / 10 / 2020
 
-- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 92 - 111 completed.
+- Paul Richards: 'C# Programming In Byte-Sized Lessons'. Lessons 92 - 111 completed.
 
 - Updated 'WordGameCheater:
 
@@ -85,15 +89,15 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
 30 / 9 / 2020
 
-- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 71 - 91 completed.
+- Paul Richards: 'C# Programming In Byte-Sized Lessons'. Lessons 71 - 91 completed.
 
 29 / 9 / 2020
 
-- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 39 - 70 completed.
+- Paul Richards: 'C# Programming In Byte-Sized Lessons'. Lessons 39 - 70 completed.
 
 28 / 9 / 2020
 
-- Paul Richards: C# Programming In Byte-Sized Lessons. Lessons 1 - 38 completed.
+- Paul Richards: 'C# Programming In Byte-Sized Lessons'. Lessons 1 - 38 completed.
 
 25 / 9 / 2020
 
@@ -102,7 +106,7 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 24 / 9 / 2020
 
 - Unity: Learned about PlayerPrefs, save / load using files (filestream, binary formatter, [Serializable] static or singleton data container class).
-- Zzap! Updated to 1.0.3: added persistent offline highscore record.
+- 'Zzap!' Updated to 1.0.3: added persistent offline highscore record.
 - Downloaded, learned and used Butler for itch.io to upload new build of Zzap!
 
 22 / 9 / 2020
@@ -112,15 +116,15 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
 21 / 9 / 2020
 
-- Zzap store page created and released on itch.io, launch trailer created and released on YouTube. promotion on Facebook and Reddit.
+- 'Zzap!' store page created and released on itch.io, launch trailer created and released on YouTube. promotion on Facebook and Reddit.
 
 17 / 9 / 2020
 
-- Zzap: Completed pause screen, all UI buttons, added keyboard & mouse controls, quit to desktop.
+- 'Zzap!': Completed pause screen, all UI buttons, added keyboard & mouse controls, quit to desktop.
 
 16 / 9 / 2020
 
-- Added a basic pause screen to Zzap.
+- Added a basic pause screen to 'Zzap!'.
 
 14 / 9 / 2020
 
@@ -131,7 +135,7 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
 - 'Zzap!' Build 0.1 uploaded to Github and Unity Connect:
 
-	www.github.com/simonjordan557/pnity-CWC20-personalproject
+	www.github.com/simonjordan557/Zzap!
 
 7 / 9 / 2020
 
@@ -208,14 +212,3 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 - Followed GitHub inbuilt tutorial to learn about commits, pull requests, merges, licences and READMEs.
 - Set up 'record-of-progress' repository with README.MD, this Dev Diary, and uploaded a simple 'Hello <NAME>' C# console application.
 - Installed Git on Windows 10.
-
-
-
-
-
-
-
-
-
-
-
