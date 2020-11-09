@@ -1,8 +1,13 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+9 / 11 / 2020
+
+- E-LEARNING: CHANNEL9.MSDN: 'C# Advanced' - Lesson 4 completed.
+- dotnet try: 101 LINQ samples.
+
 3 / 11 / 2020
 
-- Udemy: Worked on Eric Wise C# exercises. First implementation of class library and Xunit Tests.
+- Udemy: Worked on Eric Wise C# exercises. First implementation of class library and X-unit Tests.
 
 2 / 11 / 2020
 
