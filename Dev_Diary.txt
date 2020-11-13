@@ -1,5 +1,10 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+13 / 11 / 2020
+
+- Worked on Edabit problems. 1005XP.
+- Udemy: Worked on Eric Wise C# exercises. Implemented N-Unit tests. 
+
 11 / 11 / 2020
 
 - Practice Test for Sainsbury's Engineering Jumpstart program: 600 / 600
