@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+30 / 11/ 2020
+
+- Udemy: Completed all Eric Wise C# exercises.
+
 23 / 11 / 2020 - 26 / 11 / 2020
 
 - Udemy: Worked on Eric Wise C# exercises. Later exercises are being rolled into single solutions.
