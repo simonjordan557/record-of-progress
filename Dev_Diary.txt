@@ -3,6 +3,7 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 30 / 11/ 2020
 
 - Udemy: Completed all Eric Wise C# exercises.
+- Ryan Hodson: 'Ry's Git Tutorial': Completed pages 1 - 18.
 
 23 / 11 / 2020 - 26 / 11 / 2020
 
