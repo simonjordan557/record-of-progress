@@ -1,14 +1,26 @@
 Git status 				-	Current status
 	
-Git clone <REPOSITORY PATH> 		- 	Clone the repository in the local directory
+Git clone <REPOSITORY PATH> 		- 	Clone the repository in the local directory (init + pull)
 
 Git add <FILENAME>			-	Add file to be committed		(Select products to post)		STAGING
 
 Git commit -m "MESSAGE"			-	Commit all files to be added		(Put products in box and tape it up)	COMMITTING
 
-Git push prigin master			- 	Confirm the changes			(Post the box)				PUSHING
+Git push origin master			- 	Upload the changes			(Post the box)				PUSHING
+
+Git rm <FILENAME>			- 	Delete the file and remove from tracking
+
+Git restore --cached <FILENAME>		-	Remove file from staging				 
+
+Git reset				- 	Remove all tracked files from staging
+
+Git reset --hard			- 	As above, and revert file contents to that of previous commit. Good for fixing uncommited errors.
+
+Git clean -f				-       Delete / remove all untracked files
 
 Git log					-	View previous commits
+
+Git tag -a <TAG> -m <MESSAGE>     	- 	Add a tag that can be used instead of a hash.
 
 Git init            			- Initialise local repository
 
@@ -16,11 +28,23 @@ Git remote add origin <URL> 		- Connect local repository to a repository named o
 
 Git diff <FILENAME> 			-	Shows changes made to the file.
 
-Git restore --cached <FILENAME>		-	Remove file from staging
+Git checkout <COMMIT HASH>		-	Take project back to state at that Commit's hash. (Takes you off the branch).
 
-Git checkout <COMMIT HASH>		-	Take project back to state at that Commit's hash.
+Git revert <COMMIT HASH>		- 	Revert changes made in that commit, but leave it in the history.
 
 Git checkout <FILENAME>			-	Remove uncommitted changes to the file.
+
+Git branch				- 	Display all branches
+
+Git branch <BRANCHNAME>			- 	Create a new branch called <BRANCHNAME>
+
+Git checkout <BRANCHNAME>		- 	Move to that branch <BRANCHNAME>
+
+Git merge <BRANCHNAME> 			- 	Merge <BRANCHNAME> into current branch (ie Master)
+
+Git rebase master			-	Bring branch up to date with master (like git pull)
+
+Git branch -d <BRANCHNAME>		- 	Delete a branch (ie after it has merged into Master)
 
 Git fetch				-	Check if local repo is behind or ahead of remote repo.
 
@@ -33,6 +57,10 @@ Git lfs migrate info  			- Show file types in repo taking up large amounts of sp
 Git lfs migrate import --include="*.bc" - Convert all files of type .bc into LFS system
 
 CTRL+L					-	Clear the console.
+
+CTRL+D					- 	Close the window.
+
+SPACE / Q				- 	Scroll through pages, quit scrolling
 
 
 
