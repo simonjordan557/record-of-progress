@@ -1,7 +1,10 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
-1 / 12 / 2020
+3 / 12 / 2020
 
+- Ryan Hodson: 'Ry's Git Tutorial': Completed pages 87 - 136.
+
+1 / 12 / 2020
 
 - Ryan Hodson: 'Ry's Git Tutorial': Completed pages 19 - 86.
 - Updated 'Useful Notes - Git.txt'

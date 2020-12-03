@@ -1,6 +1,6 @@
 Git status 				-	Current status
 	
-Git clone <REPOSITORY PATH> 		- 	Clone the repository in the local directory (init + pull)
+Git clone <REPOSITORY PATH> 		- 	Clone the repository in the local directory, as origin. (init + remote add origin + pull)
 
 Git add <FILENAME>			-	Add file to be committed		(Select products to post)		STAGING
 
@@ -16,9 +16,17 @@ Git reset				- 	Remove all tracked files from staging
 
 Git reset --hard			- 	As above, and revert file contents to that of previous commit. Good for fixing uncommited errors.
 
+Git reset --mixed HEAD~1		- 	Moves head back to previous commit without altering files (redo commit, do git 'rebase -i > edit' first)
+
 Git clean -f				-       Delete / remove all untracked files
 
 Git log					-	View previous commits
+
+Git log -n 10				- 	Only show last 10 log entries
+
+Git log HEAD..<BRANCHNAME> --stat	- 	Show commits in <BRANCHNAME> not seen by head, with details.git  Useful when head = Master, to see what will be merged.
+
+Git reflog				-	Show log of all actions
 
 Git tag -a <TAG> -m <MESSAGE>     	- 	Add a tag that can be used instead of a hash.
 
@@ -36,15 +44,17 @@ Git checkout <FILENAME>			-	Remove uncommitted changes to the file.
 
 Git branch				- 	Display all branches
 
+Git branch -r				- 	Display remote branches (Use fetch to add branches)
+
 Git branch <BRANCHNAME>			- 	Create a new branch called <BRANCHNAME>
+
+Git branch -d <BRANCHNAME>		- 	Delete a branch (ie after it has merged into Master)
 
 Git checkout <BRANCHNAME>		- 	Move to that branch <BRANCHNAME>
 
 Git merge <BRANCHNAME> 			- 	Merge <BRANCHNAME> into current branch (ie Master)
 
 Git rebase master			-	Bring branch up to date with master (like git pull)
-
-Git branch -d <BRANCHNAME>		- 	Delete a branch (ie after it has merged into Master)
 
 Git fetch				-	Check if local repo is behind or ahead of remote repo.
 
