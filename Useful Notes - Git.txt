@@ -1,4 +1,12 @@
 Git status 				-	Current status
+
+Git config user.name = "xxx"		- 	Set name
+
+Git config user.password = "xxx"	- 	Set password
+
+Git config user.email <EMAIL>		- 	Set email
+
+Git config --global alias.<ALIAS> <CODE>	- Tie <CODE> to the shortcut command <ALIAS>.
 	
 Git clone <REPOSITORY PATH> 		- 	Clone the repository in the local directory, as origin. (init + remote add origin + pull)
 
@@ -56,9 +64,13 @@ Git merge <BRANCHNAME> 			- 	Merge <BRANCHNAME> into current branch (ie Master)
 
 Git rebase master			-	Bring branch up to date with master (like git pull)
 
-Git fetch				-	Check if local repo is behind or ahead of remote repo.
+Git fetch				-	Update info for repo, use checkout to check if local repo is behind or ahead of remote repo.
 
 Git pull				-	Update local repo to latest remote repo.
+
+Git format-patch <BRANCHNAME>		- 	Create a patch for each commit made in current branch but not in <BRANCHNAME> ie master.
+
+Git am < <PATCHFILE>			-	Incorporate a received patchfile as a commit.
 
 Git lfs track "*.bc"  			- Track files of type .bc into Large File Storage
 
@@ -71,6 +83,19 @@ CTRL+L					-	Clear the console.
 CTRL+D					- 	Close the window.
 
 SPACE / Q				- 	Scroll through pages, quit scrolling
+
+Git archive <BRANCHNAME> --format=zip --output=<PATH>	- Archive the branch contents as a snapshot, without .git tracking.
+
+Git bundle create <PATH> <BRANCHNAME>	- Create a copy of the whole repo with Git tracking - can be activated with Git Clone.
+
+Git stash				- Park uncommitted changes (like 'save to drafts').
+
+Git stash apply				- Bring back stashed changes, ready to commit.
+
+Git diff 				- difference between working directory and staging.
+
+Git diff <STATE1>..<STATE2>		- More detailed than the Git log comparison.
+
 
 
 
