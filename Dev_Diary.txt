@@ -2,7 +2,8 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
 10 / 12 / 2020
 
-- 'Advent Of Code 2020': Day 2 Challenges 1 & 2 completed with unit tests. 
+- 'Advent Of Code 2020': Day 2 Challenges 1 & 2 completed with unit tests. Day 3 Challenge 1 first draft completed. Helper library created.
+- Started quick re-read of Paul Richards 'C# Programming In Byte-Sized Lessons' to aid recall of new concepts.  
 
 8 / 12 / 2020
 
