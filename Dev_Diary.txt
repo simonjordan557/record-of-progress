@@ -1,9 +1,13 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+10 / 12 / 2020
+
+- 'Advent Of Code 2020': Day 2 Challenges 1 & 2 completed with unit tests. 
+
 8 / 12 / 2020
 
 - Ryan Hodson: 'Ry's Git Tutorial': Completed.
-- 'Advent Of Code 2020': Set up account and repository, Day 1 task 1 completed (Quick and dirty).
+- 'Advent Of Code 2020': Set up account and repository, Day 1 Challenges 1 and 2 completed (Quick and dirty).
 
 3 / 12 / 2020
 
