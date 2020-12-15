@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+15 / 12 / 2020
+
+- 'Advent Of Code 2020': Day 3 Challenges 1 & 2 completed with unit tests. Day 4 Challenge 1 nearly complete, need to squash a bug and write more tests.
+
 10 / 12 / 2020
 
 - 'Advent Of Code 2020': Day 2 Challenges 1 & 2 completed with unit tests. Day 3 Challenge 1 first draft completed. Helper library created.
