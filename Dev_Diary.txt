@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+4 / 1 / 2021
+
+- E-LEARNING: UDEMY: 'Unit Testing For C# Developers' - Course completed.
+
 17 / 12 / 2020
 
 - 'Advent Of Code 2020': Day 6 Challenges 1 & 2 completed with most unit tests. First solution to challenge 2 fails but not sure why.
