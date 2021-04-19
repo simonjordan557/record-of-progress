@@ -1,5 +1,13 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+19 / 4 / 2021
+
+- 'Python In Easy Steps' - Completed to page 55.
+
+JAN - APRIL 2021:
+
+- Completed private project (C# Console Application).
+
 4 / 1 / 2021
 
 - E-LEARNING: UDEMY: 'Unit Testing For C# Developers' - Course completed.
