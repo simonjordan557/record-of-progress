@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+4 / 5 / 2021
+
+- 'Python In Easy Steps' - Completed to page 75.
+
 19 / 4 / 2021
 
 - 'Python In Easy Steps' - Completed to page 55.
