@@ -1,5 +1,10 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+26 / 5 / 2021
+
+- More small improvements to private project (Compatability, error handling)
+
+
 17 / 5 / 2021
 
 - Made small improvements to private project.
