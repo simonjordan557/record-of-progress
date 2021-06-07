@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+7 / 6 / 2021
+
+- Compatability / Security updates to private project
+
 26 / 5 / 2021
 
 - More small improvements to private project (Compatability, error handling)
