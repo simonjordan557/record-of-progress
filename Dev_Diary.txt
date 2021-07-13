@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+13 / 7 / 2021
+
+- 'Automate The Boring Stuff With Python' completed to loc 1682.
+
 6 / 7 / 2021
 
 - 'Automate The Boring Stuff With Python' by Al Sweigart completed to loc 1529. 
