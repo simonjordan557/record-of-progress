@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+20 / 7 / 2021
+
+- 'Automate The Boring Stuff With Python' completed to loc 3305.
+
 14 / 7 / 2021
 
 - 'Automate The Boring Stuff With Python' completed to loc 2373.
