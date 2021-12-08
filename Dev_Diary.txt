@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+10 / 2021
+
+- Completed Google Grasshopper app.
+
 21 / 9 / 2021
 
 - 'Automate The Boring Stuff With Python' completed to loc 5225.
