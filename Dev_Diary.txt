@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+5 / 1 / 2022
+
+- Created 'ConnectionTester' to test a connection every 30 seconds and give a percentage success rate.
+
 10 / 2021
 
 - Completed Google Grasshopper app.
