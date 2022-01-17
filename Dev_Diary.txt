@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+17 / 1 / 2022
+
+- Udemy: '100 days of code: Python bootcamp' Day 1 complete.
+
 5 / 1 / 2022
 
 - Created 'ConnectionTester' to test a connection every 30 seconds and give a percentage success rate.
