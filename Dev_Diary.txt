@@ -2,7 +2,7 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
 18 / 1 / 2022
 
-- Udemy: '100 days of code: Python bootcamp' Day 2 complete.
+- Udemy: '100 days of code: Python bootcamp' Day 2 & 3 complete.
 - Created 'FreeRiceClicker', a bot to automate using freerice.com.
 
 17 / 1 / 2022
