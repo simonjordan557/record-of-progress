@@ -1,5 +1,10 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+19 / 1 / 2022
+
+- Udemy: '100 days of code: Python bootcamp' Day 4 complete.
+- 'FreeRiceClicker' - improved compatibility, added periodic screen refresh.
+
 18 / 1 / 2022
 
 - Udemy: '100 days of code: Python bootcamp' Day 2 & 3 complete.
