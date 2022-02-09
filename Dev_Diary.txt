@@ -1,5 +1,12 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+
+7 / 2 / 2022
+
+
+- Migrated private project to .NET 6.0 to ensure compatibility with more recent classes and types. 
+
+
 6 / 2 / 2022
 
 - Created 'MouseMovementRecorder' in C#, an automation tool to record / play back mouse movemnt.
