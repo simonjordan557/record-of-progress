@@ -1,5 +1,10 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+10 / 2 / 2022
+
+-Udemy: '100 days of code: Python bootcamp' Day 22 & 23 complete.
+
+
 9 / 2 / 2022
 
 - Udemy: '100 days of code: Python bootcamp' Day 20 & 21 complete.
@@ -10,7 +15,7 @@ DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
 6 / 2 / 2022
 
-- Created 'MouseMovementRecorder' in C#, an automation tool to record / play back mouse movemnt.
+- Created 'MouseMovementRecorder' in C#, an automation tool to record / play back mouse movement.
 
 5 / 2 / 2022
 
