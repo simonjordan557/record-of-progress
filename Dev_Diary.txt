@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+11 / 2 / 2022
+
+- Udemy: '100 days of code: Python bootcamp' Day 24 complete.
+
 10 / 2 / 2022
 
 -Udemy: '100 days of code: Python bootcamp' Day 22 & 23 complete.
