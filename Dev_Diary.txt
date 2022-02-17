@@ -1,5 +1,14 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+16 / 2 / 2022
+
+- Udemy: '100 days fo code: Python bootcamp' Day 26 complete.
+
+14 / 2 / 2022
+
+- 'MouseMovementRecorder': Added abilitty to record and play back LMB clicks.
+- Updated private project to ensure continue compatibility.
+
 12 / 2 / 2022
 
 - Udemy: '100 days of code: Python bootcamp' Day 25 complete.
