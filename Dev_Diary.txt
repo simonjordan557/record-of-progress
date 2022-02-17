@@ -1,5 +1,10 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+17 / 2 / 2022
+
+- Udemy: '100 days of code: Python bootcamp' Day 27 complete.
+- Created 'MoonDistributionReader', a tool to pull my Reddit community points stats from the monthly MOON distribution data.
+
 16 / 2 / 2022
 
 - Udemy: '100 days fo code: Python bootcamp' Day 26 complete.
