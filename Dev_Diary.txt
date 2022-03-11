@@ -1,5 +1,13 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+11 / 3 / 2022
+
+- 'Zzap!' updated to v1.0.4
+
+20 / 2 / 2022
+
+- 'MouseMovementRecorder' now plays back accurately on all combinations of recording / playback screen resolutions.
+
 17 / 2 / 2022
 
 - Udemy: '100 days of code: Python bootcamp' Day 27 complete.
