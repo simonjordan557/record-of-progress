@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+28 / 3 / 2022
+
+- Created 'SubwayPriceCalculator', a Pandas script to take a Subway pricing spreadsheet and output a new sheet containing a 27% uplift for 3PD prices.
+
 11 / 3 / 2022
 
 - 'Zzap!' updated to v1.0.4
