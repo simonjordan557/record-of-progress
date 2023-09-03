@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+3 / 9 / 2023
+
+- Uploaded two programs for Subway data manipulation: '13WeekAverager' and 'HourlyReadsAverager'.
+
 7 / 6 / 2022
 
 - Updated private project.
