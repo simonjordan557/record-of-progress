@@ -1,5 +1,9 @@
 DIARY OF PROGRESS IN SELF-TAUGHT CODING.
 
+11 / 9 / 2023
+
+- Updated '13WeekAverager' to handle up to 4 reports totalling 52 weeks, and to be flexible to altered numbers of weeks.
+
 3 / 9 / 2023
 
 - Uploaded two programs for Subway data manipulation: '13WeekAverager' and 'HourlyReadsAverager'.
